@@ -42,7 +42,7 @@ hr {
 
 header {
   background-color: #999;
-  background-image: "https://github.com/tasnimOyshi/resume/blob/gh-pages/images/cover.jpg" alt= "cover";
+  background-image: url(img/cover.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
